@@ -1,0 +1,7 @@
+X,Y,Z,azimuth,dip,formation
+250,500,320,90,12,Top_Sand
+500,500,280,90,0,Top_Sand
+750,500,320,90,12,Top_Sand
+250,500,390,90,12,Base_Sand
+500,500,350,90,0,Base_Sand
+750,500,390,90,12,Base_Sand
