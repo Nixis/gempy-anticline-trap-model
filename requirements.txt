@@ -1,0 +1,6 @@
+gempy
+gempy-viewer
+numpy
+pandas
+matplotlib
+pyvista
